@@ -1,1 +1,1 @@
-# My-cv
+This commit includes the initial version of my resume created using HTML and CSS. The resume consists of sections for personal information, education, work experience, skills, and projects. The design incorporates a clean and professional layout with a responsive design for optimal viewing across initial phase.
